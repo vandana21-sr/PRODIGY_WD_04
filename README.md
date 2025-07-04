@@ -27,4 +27,4 @@ This is my personal portfolio website created to showcase my skills, projects, a
 ## 📬 Contact
 
 - Email: vandana@example.com
-- GitHub: [github.com/yourusername](#)
+- GitHub: [github.com/vandana21-sr](#)
